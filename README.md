@@ -1,4 +1,4 @@
-# DeuteronDisintegration
-# Not sure if the university policies allow me to make my codes public. 
-# Adding just a few sample programs. 
-# Happy browsing! 
+# DeuteronDisintegration 
+# Academic Research Project
+
+## Studying the effect of SRG evolution of different components on the the longitudinal structure function (f_L) of deuteron electrodisintegration
